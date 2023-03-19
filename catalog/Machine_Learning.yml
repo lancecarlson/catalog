@@ -20,3 +20,5 @@ shards:
   description: Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow)
 - github: NeuraLegion/tensorflow.cr
   description: TensorFlow bindings in Crystal
+- github: lancecarlson/openai.cr
+  description: Client library for openai built in Crystal
